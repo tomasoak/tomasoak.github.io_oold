@@ -6,13 +6,13 @@ I am a Data (Analytics) Engineer with <strong>6+ years</strong>, of experience i
   
 <br>
   
+ 
 <strong>Skills</strong>: Python, SQL, AWS, Git/GitHub, Docker, PostgreSQL, Metabase (BI), Multi-dimensional data modeling 
   
 </div>
 
 <br>
 
-  
 Furthermore, I have developed demonstrable work experience with the following:
   <br>
  • Programming and software engineering
