@@ -2,7 +2,7 @@
   <h2>Hi there</h2>
     <br/>
 
-I am a Data Engineering & Big Data Specialist with 6+ years of experience in data-related positions, enthusiastic about data analytics engineering, sustainability, and technology. Moreover, I am curious, open to new challenges, and willing to learn and experiment with new technologies. 
+I am a Data (Analytics) Engineer with <strong>6+ years</strong>, of experience in data-related positions, enthusiastic about data analytics engineering, sustainability, and technology. Moreover, I am curious, open to new challenges, and willing to learn and experiment with new technologies.
   
 <br>
   
@@ -10,16 +10,8 @@ I am a Data Engineering & Big Data Specialist with 6+ years of experience in dat
   
 </div>
 
-___
-
 <br>
 
-<h2>About me</h2>
-  <p> I am a Data (Analytics) Engineer enthusiastic about creating actionable insights and promoting data-informed decision-making, curious, open to new challenges, and willing to learn and experiment with new technologies. 
-
-Over the last 6+ years, I have been applying Data Analytics and Engineering to improve ESG performance in business practices, mainly in the global agricultural commodity supply chain sector. 
-  
-<br>
   
 Furthermore, I have developed demonstrable work experience with the following:
   <br>
@@ -52,13 +44,14 @@ Currently diving into Big Data Engineering & Cloud technologies:
     <br>
  • PySpark, Airflow, AWS (Glue, Redshift), and Databricks
 
-  <br>
+<br>
   
 GIS tech:
     <br>
  • Google Earth Engine, QGIS, GDAL, ArcGIS, PostGIS, ArcPy
 
- <br> 
+<br> 
+  
   
 Some experience with:
     <br>
