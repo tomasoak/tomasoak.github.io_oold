@@ -9,7 +9,7 @@ I am a Data (Analytics) Engineer with <strong>6+ years</strong>, of experience i
 </div> 
 <br>
 <div id="more">
-Furthermore, I have developed demonstrable work experience with the following:
+Demonstrable work experience with:
   <br>
  • Programming and software engineering
   <br>
