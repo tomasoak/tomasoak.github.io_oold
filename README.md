@@ -3,11 +3,12 @@
     <br/>
 
 I am a Data (Analytics) Engineer with <strong>6+ years</strong>, of experience in data-related positions, enthusiastic about data analytics engineering, sustainability, and technology. Moreover, I am curious, open to new challenges, and willing to learn and experiment with new technologies.
-<div>
- <strong>Skills</strong>: Python, SQL, AWS, Git/GitHub, Docker, PostgreSQL, Metabase (BI), Multi-dimensional data modeling 
-  
+</div>
+<div id="skills">
+  <strong>Skills</strong>: Python, SQL, AWS, Git/GitHub, Docker, PostgreSQL, Metabase (BI), Multi-dimensional data modeling 
+</div> 
 <br>
-
+<div id="more">
 Furthermore, I have developed demonstrable work experience with the following:
   <br>
  • Programming and software engineering
@@ -51,9 +52,10 @@ Some experience with:
     <br>
  • JavaScript, Node.js, and ReactJS
    </p>
- 
+</div> 
+
 ___
- 
+<div id="tech">
 <h2>Technologies</h2>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -80,9 +82,11 @@ ___
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/>
   </a>
 </p>
+</div>
 
 ___
-       
+
+<div id="projects>
 <h2>Projects</h2>
   <p align="left"> 
     Here you can check some cool projects and publicly useful code I've been working on
@@ -102,7 +106,6 @@ ___
           <a href="https://github.com/tomasoak/dataeng_zoomcamp" target="_blank"> Cloud ETL Architecture </a> - End-to-end streaming Data Engineering project (GCP, Terraform, Docker, SQL, Prefect, dbt, Spark, Kafka)
         </li>
      </ul>
-  
   
   
   <h4>Business Intelligence</h4>
@@ -127,3 +130,4 @@ ___
         </li>
       </ul>
   </p>
+</div>
