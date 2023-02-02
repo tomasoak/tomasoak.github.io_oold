@@ -2,7 +2,7 @@
   <h2>Hi there</h2>
     <br/>
 
-I am a Data (Analytics) Engineer with <strong>6+ years</strong>, of experience in data-related positions, enthusiastic about data analytics engineering, sustainability, and technology. Moreover, I am curious, open to new challenges, and willing to learn and experiment with new technologies.
+I am a Data (Analytics) Engineer with <strong>6+ years</strong> of experience in data-related positions, enthusiastic about data analytics engineering, sustainability, and technology. Moreover, I am curious, open to new challenges, and willing to learn and experiment with new technologies.
 </div>
 
 <br>
@@ -16,7 +16,7 @@ Demonstrable work experience with:
     <br>
  • Build data pipelines and build ETL processes
     <br>
- • Multi-dimensional data modeling, designing, managing, (tunning) querying databases
+ • Multi-dimensional data modeling and fine tuning queries 
     <br>
  • Code versioning control, CI/CD, and containers
     <br>
