@@ -3,18 +3,24 @@
     <br/>
 
 I am a Data Engineering & Big Data Specialist with 6+ years of experience in data-related positions, enthusiastic about data analytics engineering, sustainability, and technology. Moreover, I am curious, open to new challenges, and willing to learn and experiment with new technologies. 
+  
 <br>
+  
 <strong>Skills</strong>: Python, SQL, AWS, Git/GitHub, Docker, PostgreSQL, Metabase (BI), Multi-dimensional data modeling 
   
 </div>
 
 ___
 
+<br>
+
 <h2>About me</h2>
   <p> I am a Data (Analytics) Engineer enthusiastic about creating actionable insights and promoting data-informed decision-making, curious, open to new challenges, and willing to learn and experiment with new technologies. 
 
 Over the last 6+ years, I have been applying Data Analytics and Engineering to improve ESG performance in business practices, mainly in the global agricultural commodity supply chain sector. 
+  
 <br>
+  
 Furthermore, I have developed demonstrable work experience with the following:
   <br>
  • Programming and software engineering
@@ -36,7 +42,7 @@ Furthermore, I have developed demonstrable work experience with the following:
 
 <br>
   
-<strong>Main tech</strong>:
+Main tech:
     <br>
  • Python, SQL, AWS (S3, EC2, ECR), PostgreSQL, Git, Github, Docker, Metabase (BI)
 
