@@ -3,6 +3,7 @@
     <br/>
 
 I am a Data (Analytics) Engineer with <strong>6+ years</strong> of experience in data-related positions, enthusiastic about data analytics engineering, sustainability, and technology. Moreover, I am curious, open to new challenges, and willing to learn and experiment with new technologies.
+
 </div>
 
 <br>
@@ -69,9 +70,18 @@ ___
   <a href="https://terraform.io/" target="_blank" rel="noreferrer">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="terraform" width="50" height="50"/>
   </a>
+    <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+   <img src="https://github.com/devicons/devicon/blob/develop/icons/apachespark/apachespark-original-wordmark.svg" alt="Spark" width="60" height="60"/>
+  </a>
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" alt="GCP" width="60" height="60"/>
-  </a>         
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" alt="GCP" width="70" height="70"/>
+  </a>  
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/develop/icons/apacheairflow/apacheairflow-original-wordmark.svg" alt="Airflow" width="70" height="70"/>
+  </a>
+    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="Kafka" width="70" height="70"/>
+  </a>
 
 <br>
 
