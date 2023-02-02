@@ -27,33 +27,9 @@ Furthermore, I have developed demonstrable work experience with the following:
     <br>
  • International and agile team player by working on multi-million USD projects
     <br>
-<br> 
-  
-Main tech:
-    <br>
- • Python, SQL, AWS (S3, EC2, ECR), PostgreSQL, Git, Github, Docker, Metabase (BI)
-
-<br>  
-  
-Currently diving into Big Data Engineering & Cloud technologies:
-    <br>
- • PySpark, Airflow, AWS (Glue, Redshift), and Databricks
-
-<br>
-  
-GIS tech:
-    <br>
- • Google Earth Engine, QGIS, GDAL, ArcGIS, PostGIS, ArcPy
-
-<br> 
-  
-  
-Some experience with:
-    <br>
- • JavaScript, Node.js, and ReactJS
-
 </div> 
 
+<br>
 
 ___
 
