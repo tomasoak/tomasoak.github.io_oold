@@ -67,6 +67,7 @@ ___
 <br>
 
 <h3>Currently learning</h3>
+<div id="learning_logos">
   <a href="https://terraform.io/" target="_blank" rel="noreferrer">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="terraform" width="50" height="50"/>
   </a>
@@ -79,9 +80,10 @@ ___
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/raw/develop/icons/apacheairflow/apacheairflow-original-wordmark.svg" alt="Airflow" width="70" height="70"/>
   </a>
-    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apachekafka/apachekafka-original-wordmark.svg" alt="Kafka" width="70" height="70"/>
   </a>
+</div>
 
 <br>
 
