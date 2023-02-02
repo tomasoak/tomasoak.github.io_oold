@@ -27,7 +27,7 @@ Furthermore, I have developed demonstrable work experience with the following:
     <br>
  • International and agile team player by working on multi-million USD projects
     <br>
-
+<br> 
   
 Main tech:
     <br>
@@ -51,7 +51,7 @@ GIS tech:
 Some experience with:
     <br>
  • JavaScript, Node.js, and ReactJS
-   </p>
+
 </div> 
 
 
@@ -91,7 +91,7 @@ ___
 ___
 
 
-<div id="projects>
+<div id="projects">
 <h2>Projects</h2>
   <p align="left"> 
     Here you can check some cool projects and publicly useful code I've been working on
