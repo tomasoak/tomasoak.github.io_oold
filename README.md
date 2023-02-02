@@ -81,7 +81,7 @@ ___
     <img src="https://github.com/devicons/devicon/raw/develop/icons/apacheairflow/apacheairflow-original-wordmark.svg" alt="Airflow" width="70" height="70"/>
   </a>
    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apachekafka/apachekafka-original-wordmark.svg" alt="Kafka" width="70" height="70"/>
+    <img src="https://github.com/devicons/devicon/raw/v2.15.1/icons/apachekafka/apachekafka-original-wordmark.svg" alt="Kafka" width="70" height="70"/>
   </a>
 </div>
 
