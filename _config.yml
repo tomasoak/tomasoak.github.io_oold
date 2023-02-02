@@ -1,7 +1,7 @@
 title: Tomas Carvalho # your name (or website title) here
 logo: "/CarvalhoTomas.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
- <h2>Data Engineer</h2>
+ <h2>Data Analytics Engineer</h2>
   <a href="https://www.linkedin.com/in/tomas-carvalho/?locale=en_US" target="_blank"><img height="25" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:tomas.jpeg@gmail.com"> <img height="25" src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white /></a>
 theme: jekyll-theme-minimal
