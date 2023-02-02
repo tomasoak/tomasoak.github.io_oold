@@ -54,7 +54,10 @@ Some experience with:
    </p>
 </div> 
 
+
 ___
+
+
 <div id="tech">
 <h2>Technologies</h2>
 <p align="left"> 
@@ -84,7 +87,9 @@ ___
 </p>
 </div>
 
+
 ___
+
 
 <div id="projects>
 <h2>Projects</h2>
