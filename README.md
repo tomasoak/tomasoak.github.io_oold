@@ -8,7 +8,7 @@ I am a Data Engineering & Big Data Specialist with 6+ years of experience in dat
   
 </div>
 
-___
+<br>
 
 <h2>About me</h2>
   <p> I am a Data (Analytics) Engineer enthusiastic about creating actionable insights and promoting data-informed decision-making, curious, open to new challenges, and willing to learn and experiment with new technologies. 
@@ -52,7 +52,7 @@ Some experience with:
    </p>
 </details>
  
- ___
+<br>
  
 <h2>Technologies</h2>
 <p align="left"> 
@@ -81,9 +81,9 @@ Some experience with:
   </a>
 </p>
 
-___
+<br>
        
-<h3>Projects</h3>
+<h2>Projects</h2>
   <p align="left"> 
     Here you can check some cool projects and publicly useful code I've been working on
     <h4>Software Engineering</h4>
@@ -131,7 +131,7 @@ ___
 
   <br/>
 <div id="badges">
-  <h3> 📫 Connect with me </h3>
+  <h2> 📫 Connect with me </h2>
   <div id="social-media" >
     <a href="https://www.linkedin.com/in/tomas-carvalho/?locale=en_US">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
