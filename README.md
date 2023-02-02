@@ -3,14 +3,9 @@
     <br/>
 
 I am a Data (Analytics) Engineer with <strong>6+ years</strong>, of experience in data-related positions, enthusiastic about data analytics engineering, sustainability, and technology. Moreover, I am curious, open to new challenges, and willing to learn and experiment with new technologies.
+<div>
+ <strong>Skills</strong>: Python, SQL, AWS, Git/GitHub, Docker, PostgreSQL, Metabase (BI), Multi-dimensional data modeling 
   
-<br>
-  
- 
-<strong>Skills</strong>: Python, SQL, AWS, Git/GitHub, Docker, PostgreSQL, Metabase (BI), Multi-dimensional data modeling 
-  
-</div>
-
 <br>
 
 Furthermore, I have developed demonstrable work experience with the following:
@@ -32,7 +27,6 @@ Furthermore, I have developed demonstrable work experience with the following:
  • International and agile team player by working on multi-million USD projects
     <br>
 
-<br>
   
 Main tech:
     <br>
