@@ -1,17 +1,17 @@
 <div id="header">
-  <h3>Hi there :wave:</h3>
+  <h2>Hi there</h2>
     <br/>
 
- - 💼 Data Scientist at <a href="https://trase.earth">Trase<a/>
- - :fire: Interested in <strong>Data Engineering</strong> and <strong>Data Analytics Engineer</strong>
- - :rocket: Learning every day about <strong>technologies</strong>
- - ⚡ Fun fact: I :heart: maps, nature and adventures, not necessarily in this order
+I am a Data Engineering & Big Data Specialist with 6+ years of experience in data-related positions, enthusiastic about data analytics engineering, sustainability, and technology. Moreover, I am curious, open to new challenges, and willing to learn and experiment with new technologies. 
+<br>
+<strong>Skills</strong>: Python, SQL, AWS, Git/GitHub, Docker, PostgreSQL, Metabase (BI), Multi-dimensional data modeling 
   
 </div>
 
- <details>  
-  <summary><h3>About me</h3></summary>
-  <p> I am a Data Scientist / Data Engineer enthusiastic about creating actionable insights and promoting data-informed decision-making, curious, open to new challenges, and willing to learn and experiment with new technologies. 
+___
+
+<h2>About me</h2>
+  <p> I am a Data (Analytics) Engineer enthusiastic about creating actionable insights and promoting data-informed decision-making, curious, open to new challenges, and willing to learn and experiment with new technologies. 
 
 Over the last 6+ years, I have been applying Data Analytics and Engineering to improve ESG performance in business practices, mainly in the global agricultural commodity supply chain sector. 
  
@@ -52,12 +52,18 @@ Some experience with:
    </p>
 </details>
  
-<details>  
-<summary><h3>Technologies</h3></summary>
+ ___
+ 
+<h2>Technologies</h2>
 <p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   </a> 
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>     </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
   </a> 
@@ -67,34 +73,17 @@ Some experience with:
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>     </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </a> 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
 </p>
-</details>  
+
+___
        
-<details>  
-  <summary><h3>Projects</h3></summary>
+<h3>Projects</h3>
   <p align="left"> 
     Here you can check some cool projects and publicly useful code I've been working on
     <h4>Software Engineering</h4>
@@ -138,7 +127,8 @@ Some experience with:
         </li>
       </ul>
   </p>
-</details>
+
+
   <br/>
 <div id="badges">
   <h3> 📫 Connect with me </h3>
