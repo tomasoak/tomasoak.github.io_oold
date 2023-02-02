@@ -16,6 +16,7 @@ I am a Data Engineering & Big Data Specialist with 6+ years of experience in dat
 Over the last 6+ years, I have been applying Data Analytics and Engineering to improve ESG performance in business practices, mainly in the global agricultural commodity supply chain sector. 
  
 Furthermore, I have developed demonstrable work experience with the following:
+  <br>
  • Programming and software engineering
   <br>
  • Data enrichment, analysis, manipulation, visualization, and BI dashboards
@@ -33,51 +34,57 @@ Furthermore, I have developed demonstrable work experience with the following:
  • International and agile team player by working on multi-million USD projects
     <br>
 
+<br>
+  
 Main tech:
     <br>
  • Python, SQL, AWS (S3, EC2, ECR), PostgreSQL, Git, Github, Docker, Metabase (BI)
 
+<br>  
+  
 Currently diving into Big Data Engineering & Cloud technologies:
     <br>
  • PySpark, Airflow, AWS (Glue, Redshift), and Databricks
 
+  <br>
+  
 GIS tech:
     <br>
  • Google Earth Engine, QGIS, GDAL, ArcGIS, PostGIS, ArcPy
 
+ <br> 
+  
 Some experience with:
     <br>
  • JavaScript, Node.js, and ReactJS
- 
    </p>
-</details>
  
 <br>
  
 <h2>Technologies</h2>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> 
   </a> 
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>     </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>     </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/> 
   </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
   </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/> 
   </a> 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/>
   </a>
 </p>
 
@@ -130,15 +137,12 @@ Some experience with:
 
 
   <br/>
-<div id="badges">
-  <h2> 📫 Connect with me </h2>
-  <div id="social-media" >
+
+<h2> 📫 Connect with me </h2>
     <a href="https://www.linkedin.com/in/tomas-carvalho/?locale=en_US">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     <a/>
      <a href="mailto:tomas.jpeg@gmail.com">
       <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />
      <a/>
-  </div>
-  </div>
-</div>
+
