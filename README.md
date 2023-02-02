@@ -8,13 +8,13 @@ I am a Data Engineering & Big Data Specialist with 6+ years of experience in dat
   
 </div>
 
-<br>
+___
 
 <h2>About me</h2>
   <p> I am a Data (Analytics) Engineer enthusiastic about creating actionable insights and promoting data-informed decision-making, curious, open to new challenges, and willing to learn and experiment with new technologies. 
 
 Over the last 6+ years, I have been applying Data Analytics and Engineering to improve ESG performance in business practices, mainly in the global agricultural commodity supply chain sector. 
- 
+<br>
 Furthermore, I have developed demonstrable work experience with the following:
   <br>
  • Programming and software engineering
@@ -36,7 +36,7 @@ Furthermore, I have developed demonstrable work experience with the following:
 
 <br>
   
-Main tech:
+<strong>Main tech</strong>:
     <br>
  • Python, SQL, AWS (S3, EC2, ECR), PostgreSQL, Git, Github, Docker, Metabase (BI)
 
@@ -59,7 +59,7 @@ Some experience with:
  • JavaScript, Node.js, and ReactJS
    </p>
  
-<br>
+___
  
 <h2>Technologies</h2>
 <p align="left"> 
@@ -88,7 +88,7 @@ Some experience with:
   </a>
 </p>
 
-<br>
+___
        
 <h2>Projects</h2>
   <p align="left"> 
@@ -134,15 +134,3 @@ Some experience with:
         </li>
       </ul>
   </p>
-
-
-  <br/>
-
-<h2> 📫 Connect with me </h2>
-    <a href="https://www.linkedin.com/in/tomas-carvalho/?locale=en_US">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    <a/>
-     <a href="mailto:tomas.jpeg@gmail.com">
-      <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />
-     <a/>
-
