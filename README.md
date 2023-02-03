@@ -93,7 +93,7 @@ ___
 <div id="projects">
 <h2>Projects</h2>
   <p align="left"> 
-    Here you can check some cool projects and publicly useful code I've been working on
+    Here you can check some cool projects and public useful code I've been working on
     <h4>Software Engineering</h4>
       <ul>
         <li> 
