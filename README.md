@@ -1,8 +1,11 @@
 <div id="header">
-  <h2>Hi there</h2>
+  <h2>Howdy!</h2>
     <br/>
 
-I am a Data Analytics Engineer with <strong>6+ years</strong> of experience in data-related positions, enthusiastic about data analytics engineering, sustainability, and technology. Moreover, I am curious, open to new challenges, and willing to learn and experiment with new technologies.
+Data Analytics Engineer with <strong>6+ years</strong> of experience in data-related positions. 
+<br>
+<br>
+Currently, I am pursuing a Specialization in Data Engineering & Big Data. Moreover, I am curious, open to new challenges, and passionate to learn and experiment with new technologies.
 
 </div>
 
@@ -15,7 +18,7 @@ Demonstrable work experience with:
   <br>
  • Data enrichment, analysis, manipulation, visualization, and BI dashboards
     <br>
- • Build data pipelines and build ETL processes
+ • Build data pipelines and ETL/ELT processes
     <br>
  • Multi-dimensional data modeling and performance tuning SQL queries 
     <br>
