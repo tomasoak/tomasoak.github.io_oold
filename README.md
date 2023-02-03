@@ -2,10 +2,10 @@
   <h2>Howdy!</h2>
     <br/>
 
-Data Analytics Engineer with <strong>6+ years</strong> of experience in data-related positions. 
+Data Analytics Engineer with <strong>6+ years</strong> of experience in data-related positions. I am curious, open to new challenges, and passionate to learn and experiment with new technologies.
 <br>
 <br>
-Currently, I am pursuing a Specialization in Data Engineering & Big Data. Moreover, I am curious, open to new challenges, and passionate to learn and experiment with new technologies.
+Currently, I am pursuing a Specialization in Data Engineering & Big Data. 
 
 </div>
 
