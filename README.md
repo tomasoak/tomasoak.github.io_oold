@@ -118,7 +118,7 @@ ___
   <h4>Business Intelligence</h4>
        <ul>
         <li> 
-          <a href="https://github.com/tomasoak/agricultural_supply_chain_explorer" target="_blank"> Agricultural Supply Chain Explorer </a> - Real-time interactive dashboard (Python, Dash-Plotly, AWS, SQL)
+          <a href="https://github.com/tomasoak/agricultural_supply_chain_explorer" target="_blank"> Agricultural Supply Chain Explorer </a> - Interactive dashboard (Python, Dash-Plotly, AWS, SQL, Docker)
         </li>
       </ul>
 
