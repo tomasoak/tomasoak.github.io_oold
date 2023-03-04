@@ -28,6 +28,9 @@ ___
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> 
   </a> 
+    <a href="https://cloud.google.com/" target="_blank" rel="noreferrer", text-align: "center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" alt="GCP" width="80" height="80"/>
+  </a>  
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>     </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
@@ -36,15 +39,9 @@ ___
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> 
   </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
-  </a> 
   <a href="https://github.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="50" height="50"/> 
   </a>
-    <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" alt="GCP" width="80" height="80"/>
-  </a>  
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/raw/develop/icons/apacheairflow/apacheairflow-original-wordmark.svg" alt="Airflow" width="80" height="80"/>
   </a>
