@@ -1,33 +1,17 @@
 <div id="header">
-  <h2>Howdy!</h2>
+  <h2>Howdy world!</h2>
     <br/>
 
-Data Analytics Engineer with <strong>6+ years</strong> of experience in creating actionable insights and promoting data-informed decision-making. I am curious, open to new challenges, and passionate to learn and experiment with new technologies. 
+Data Analytics Engineer with <strong>6+ years</strong> of experience, I thrive on turning data into actionable insights and empowering data-driven decision-making. My impact can be seen in measurable improvements to operational metrics and efficiency. Passionate for learning and hunger for new challenges. 
+
 <br>
-<br>
-Currently, I am pursuing a Specialization in Data Engineering & Big Data. 
 
 </div>
 
 <br>
 
 <div id="more">
-Demonstrable work experience with:
-  <br>
- • Programming and software engineering
-  <br>
- • Data enrichment, analysis, manipulation, visualization, and BI dashboards
-    <br>
- • Build data pipelines and ETL/ELT processes
-    <br>
- • Multi-dimensional data modeling and performance tuning SQL queries 
-    <br>
- • Code versioning control, CI/CD, and containers
-    <br>
- • Communicating technical processes and results to non-technical audiences and stakeholders
-    <br>
- • International and agile team player by working on multi-million USD projects
-    <br>
+My technical expertise includes programming, data enrichment, analysis, and visualization, with a focus on building efficient data pipelines and multi-dimensional data modeling. I've optimized SQL queries, implemented version control, and leveraged cloud technologies, delivering measurable results for teams across the globe. My fluency in spatial data modeling, analysis, and visualization has enabled me to produce visually compelling outputs, and my experience working on multi-million USD projects demonstrates my commitment to cross-functional team success. I also have experience communicating technical concepts to non-technical stakeholders. 
 </div> 
 
 <br>
