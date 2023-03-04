@@ -41,7 +41,13 @@ ___
   </a> 
   <a href="https://github.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="50" height="50"/> 
-  </a>   
+  </a>
+    <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" alt="GCP" width="80" height="80"/>
+  </a>  
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/raw/develop/icons/apacheairflow/apacheairflow-original-wordmark.svg" alt="Airflow" width="80" height="80"/>
+  </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/> 
   </a> 
@@ -60,12 +66,6 @@ ___
   </a>
     <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
    <img src="https://github.com/devicons/devicon/raw/develop/icons/apachespark/apachespark-original-wordmark.svg" alt="Spark" width="60" height="60"/>
-  </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" alt="GCP" width="70" height="70"/>
-  </a>  
-  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/raw/develop/icons/apacheairflow/apacheairflow-original-wordmark.svg" alt="Airflow" width="70" height="70"/>
   </a>
    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/raw/v2.15.1/icons/apachekafka/apachekafka-original-wordmark.svg" alt="Kafka" width="70" height="70"/>
