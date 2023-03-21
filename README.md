@@ -45,25 +45,20 @@ ___
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/raw/develop/icons/apacheairflow/apacheairflow-original-wordmark.svg" alt="Airflow" width="80" height="80"/>
   </a>
-</p>
-</div>
-
-<br>
-
-<h3>Currently learning</h3>
-<div id="learning_logos">
-  <a href="https://terraform.io/" target="_blank" rel="noreferrer">
+   <a href="https://terraform.io/" target="_blank" rel="noreferrer">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="terraform" width="50" height="50"/>
   </a>
-    <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
    <img src="https://github.com/devicons/devicon/raw/develop/icons/apachespark/apachespark-original-wordmark.svg" alt="Spark" width="60" height="60"/>
   </a>
    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/raw/v2.15.1/icons/apachekafka/apachekafka-original-wordmark.svg" alt="Kafka" width="70" height="70"/>
   </a>
+</p>
 </div>
 
 <br>
+
 
 ___
 
