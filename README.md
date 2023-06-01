@@ -21,42 +21,13 @@ ___
 
 <div id="tech">
 <h2>Technologies</h2>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> 
-  </a> 
-    <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" alt="GCP" width="75" height="75"/>
-  </a>  
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>     </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> 
-  </a> 
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="50" height="50"/> 
-  </a>
-  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/raw/develop/icons/apacheairflow/apacheairflow-original-wordmark.svg" alt="Airflow" width="80" height="80"/>
-  </a>
-   <a href="https://terraform.io/" target="_blank" rel="noreferrer">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="terraform" width="50" height="50"/>
-  </a>
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-   <img src="https://github.com/devicons/devicon/raw/develop/icons/apachespark/apachespark-original-wordmark.svg" alt="Spark" width="60" height="60"/>
-  </a>
-   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/raw/v2.15.1/icons/apachekafka/apachekafka-original-wordmark.svg" alt="Kafka" width="70" height="70"/>
-  </a>
-</p>
-</div>
-
+  
+  - **Programming, Data Analysis & Software Engineer**: Python, SQL, Github  
+  - **DataViz**: Python (Dash-Plotly), Looker, Metabase
+  - **Cloud**: AWS (S3, RDS, EC2, ECS), GCP (BigQuery, CloudComposer, CloudStorage, IAM
+  - **Orchestrator**: Airflow, Prefect
+  - **IaC, Containers, CI/CD**: Terraform, Docker, Github Actions
+  - **GIS**: PostGIS, QGIS, Google Earth Engine, GDAL, ArcGIS, GeoPandas
 <br>
 
 
