@@ -23,7 +23,7 @@ ___
 <h2>Technologies</h2>
 <ul>
   <li>
-    <strong>Programming, Data Analysis & Software Engineer:</strong> Python, SQL, Github, PostgreSQL 
+    <strong>Programming, Data Analysis & Software Engineering:</strong> Python, SQL, Git/Github, PostgreSQL 
   </li>
   <li>
     <strong>Data Visualization:</strong> Looker, Metabase, Python (Dash-Plotly)
@@ -50,13 +50,13 @@ ___
   <p align="left"> 
     Here you can check some cool projects and public useful code I've been working on
   
-  <h4>Data Engineering</h4>
+<!---  <h4>Data Engineering</h4>
     <ul>
         <li> 
           <a href="https://github.com/tomasoak/dataeng_zoomcamp" target="_blank"> Cloud ETL Architecture </a> - End-to-end streaming Data Engineering project (GCP, Terraform, Docker, SQL, Prefect, dbt, Spark, Kafka)
         </li>
      </ul>
-  
+--->  
   <h4>Business Intelligence</h4>
        <ul>
         <li> 
@@ -71,7 +71,6 @@ ___
         </li>
         <li> <a href="https://geomaniacs-landingpage.netlify.app" target="_blank"> GeoManiacs </a> - GeoSpatial company landing page - (React.js) </li> 
         <li> <a href="http://impacto.imaflora.org/" target="_blank"> Impact </a> -  Socio-environmental projects monitor in the Brazilian Amazon region - (Backend: Node.js, Typescript, GraphQL, JWT Auth) </li> 
-        <li> <a href="https://github.com/tomasoak/e_commerce_microservice" target="_blank"> E-Commerce Microservice </a> - (Python, FastAPI, Redis) </li> 
       </ul>
       
       
