@@ -45,9 +45,6 @@ ___
 <br>
 
 
-___
-
-
 <div id="projects">
 <h2>Projects</h2>
   <p align="left"> 
