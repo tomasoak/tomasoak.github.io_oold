@@ -23,7 +23,7 @@ ___
 <h2>Technologies</h2>
 <ul>
   <li>
-    <strong>Programming, Data Analysis & Software Engineer:</strong> Python, SQL, Github 
+    <strong>Programming, Data Analysis & Software Engineer:</strong> Python, SQL, Github, PostgreSQL 
   </li>
   <li>
     <strong>Data Visualization:</strong> Looker, Metabase, Python (Dash-Plotly)
@@ -35,12 +35,13 @@ ___
     <strong>Orchestrator:</strong> Airflow, Prefect
   </li>
   <li>
-    <strong>IaC, Containers, CI/CD</strong> Terraform, Docker, Github Actions
+    <strong>IaC, Containers, CI/CD:</strong> Terraform, Docker, Github Actions
   </li>
   <li>
     <strong>GIS & Remote Sensing:</strong> PostGIS, QGIS, Google Earth Engine, GDAL, ArcGIS, GeoPandas
   </li>
 </ul>
+  
 <br>
 
 
