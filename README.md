@@ -40,6 +40,7 @@ ___
   <li>
     <strong>GIS:</strong>PostGIS, QGIS, Google Earth Engine, GDAL, ArcGIS, GeoPandas
   </li>
+</ul>
 <br>
 
 
