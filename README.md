@@ -23,22 +23,22 @@ ___
 <h2>Technologies</h2>
 <ul>
   <li>
-    <strong>Programming, Data Analysis & Software Engineer:</strong>Python, SQL, Github 
+    <strong>Programming, Data Analysis & Software Engineer:</strong> Python, SQL, Github 
   </li>
   <li>
-    <strong>Data Visualization:</strong> Python (Dash-Plotly), Looker, Metabase
+    <strong>Data Visualization:</strong> Looker, Metabase, Python (Dash-Plotly)
   </li>
   <li>
-    <strong>Cloud:</strong>AWS (S3, RDS, EC2, ECS), GCP (BigQuery, CloudComposer, CloudStorage, IAM
+    <strong>Cloud:</strong> AWS (S3, RDS, EC2, ECS, IAM), GCP (BigQuery, CloudComposer, CloudStorage, IAM)
   </li>
   <li>
-    <strong>Orchestrator:</strong>Airflow, Prefect
+    <strong>Orchestrator:</strong> Airflow, Prefect
   </li>
   <li>
-    <strong>IaC, Containers, CI/CD</strong>Terraform, Docker, Github Actions
+    <strong>IaC, Containers, CI/CD</strong> Terraform, Docker, Github Actions
   </li>
   <li>
-    <strong>GIS:</strong>PostGIS, QGIS, Google Earth Engine, GDAL, ArcGIS, GeoPandas
+    <strong>GIS & Remote Sensing:</strong> PostGIS, QGIS, Google Earth Engine, GDAL, ArcGIS, GeoPandas
   </li>
 </ul>
 <br>
