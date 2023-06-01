@@ -21,13 +21,25 @@ ___
 
 <div id="tech">
 <h2>Technologies</h2>
-  
-  - **Programming, Data Analysis & Software Engineer**: Python, SQL, Github  
-  - **DataViz**: Python (Dash-Plotly), Looker, Metabase
-  - **Cloud**: AWS (S3, RDS, EC2, ECS), GCP (BigQuery, CloudComposer, CloudStorage, IAM
-  - **Orchestrator**: Airflow, Prefect
-  - **IaC, Containers, CI/CD**: Terraform, Docker, Github Actions
-  - **GIS**: PostGIS, QGIS, Google Earth Engine, GDAL, ArcGIS, GeoPandas
+<ul>
+  <li>
+    <strong>Programming, Data Analysis & Software Engineer:</strong>Python, SQL, Github 
+  </li>
+  <li>
+    <strong>Data Visualization:</strong> Python (Dash-Plotly), Looker, Metabase
+  </li>
+  <li>
+    <strong>Cloud:</strong>AWS (S3, RDS, EC2, ECS), GCP (BigQuery, CloudComposer, CloudStorage, IAM
+  </li>
+  <li>
+    <strong>Orchestrator:</strong>Airflow, Prefect
+  </li>
+  <li>
+    <strong>IaC, Containers, CI/CD</strong>Terraform, Docker, Github Actions
+  </li>
+  <li>
+    <strong>GIS:</strong>PostGIS, QGIS, Google Earth Engine, GDAL, ArcGIS, GeoPandas
+  </li>
 <br>
 
 
