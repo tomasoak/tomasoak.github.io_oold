@@ -32,7 +32,7 @@ ___
     <strong>Cloud:</strong> AWS (S3, RDS, EC2, ECS, IAM), GCP (BigQuery, CloudComposer, CloudStorage, IAM)
   </li>
   <li>
-    <strong>Orchestrator:</strong> Airflow, Prefect
+    <strong>Orchestrator:</strong> Airflow
   </li>
   <li>
     <strong>IaC, Containers, CI/CD:</strong> Terraform, Docker, Github Actions
