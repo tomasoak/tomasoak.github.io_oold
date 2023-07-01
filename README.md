@@ -26,7 +26,7 @@ ___
     <strong>Programming, Data Analysis & Software Engineering:</strong> Python, SQL, Git/Github, PostgreSQL 
   </li>
   <li>
-    <strong>Data Visualization:</strong> Looker, Metabase, Python (Dash-Plotly)
+    <strong>Data Visualization:</strong> Tableau, Looker Studio, Metabase, Python (Dash-Plotly)
   </li>
   <li>
     <strong>Cloud:</strong> AWS (S3, RDS, EC2, ECS, IAM), GCP (BigQuery, CloudComposer, CloudStorage, IAM)
