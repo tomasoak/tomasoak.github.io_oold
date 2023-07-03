@@ -6,6 +6,11 @@ As a Data Analytics & Business Intelligence Engineer, I thrive on turning data i
 
 <br>
 
+</div>
+
+<br>
+
+<div id="more">
 I worked for over 6.5 years using cutting-edge technologies to improve sustainability across the global agricultural commodity supply chain sector on international projects (Latin America, USA, Europe). These experiences, therefore, honed my skills in stakeholder engagement and translating business requirements into data pipelines, governance, visualizations, and reporting.
 
 <br>
