@@ -2,16 +2,13 @@
   <h2>Howdy world!</h2>
     <br/>
 
-Data Analytics Engineer with <strong>6+ years</strong> of experience, I thrive on turning data into actionable insights and empowering data-driven decision-making. My impact can be seen in measurable improvements to operational metrics and efficiency. Passionate for learning and hunger for new challenges. 
+As a Data Analytics & Business Intelligence Engineer, I thrive on turning data into actionable insights and empowering business decision-making. 
 
-<br>
+I worked for over 6.5 years using cutting-edge technologies to improve sustainability across the global agricultural commodity supply chain sector on international projects (Latin America, USA, Europe). These experiences, therefore, honed my skills in stakeholder engagement and translating business requirements into data pipelines, governance, visualizations, and reporting.
 
-</div>
+With a passion for learning and a hunger for new challenges, I am shifting gears toward a fast-paced environment. This dynamic environment revolves around equipping decision-makers with accessible information on fundraising, marketing, and customer behavior. By leveraging this expertise, I will unleash my capabilities in bringing robust, efficient, integrated data models and products to life to unravel intricate business puzzles.
 
-<br>
-
-<div id="more">
-My technical expertise includes programming, data enrichment, analysis, and visualization, with a focus on building efficient data pipelines and multi-dimensional data modeling. I've optimized SQL queries, implemented version control, and leveraged cloud technologies, delivering measurable results for teams across the globe. My fluency in spatial data modeling, analysis, and visualization has enabled me to produce visually compelling outputs, and my experience working on multi-million USD projects demonstrates my commitment to cross-functional team success. I also have experience communicating technical concepts to non-technical stakeholders. 
+Moreover, my technical expertise includes programming, data ETL/ELT, management, analysis, and visualization, with a focus on building efficient data pipelines and reports. Besides, I have extensive experience in optimizing SQL queries, multi-dimensional data modeling, and using code versioning control.
 </div> 
 
 <br>
