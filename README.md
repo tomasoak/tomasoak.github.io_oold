@@ -95,9 +95,6 @@ ___
       <ul>
         <li> <a href="https://gist.github.com/tomasoak/f53d6e13f82ec1e40b6045876ea73deb" target="_blank"> Git alias </a> - Speed up git commands </li>
         <li> <a href="https://gist.github.com/tomasoak/d2c010d6e479f433dae596e48c33c8cd" target="_blank"> Connecting Amazon S3 to PowerBI </a> </li>
-        <li> 
-         <a href="https://gist.github.com/tomasoak/1aec09f1ae92dbaee4afbae84d339076" target="_blank"> Insert image thumbnails into PostgreSQL  </a> - (Node.js)
-        </li>
       </ul>
   </p>
 </div>
